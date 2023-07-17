@@ -1,0 +1,55 @@
+Начнём розыгрыш:
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Начнём розыгрыш:
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Начнём розыгрыш:
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Начнём розыгрыш:
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Начнём розыгрыш:
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
+Начнём розыгрыш:
+Toy [id=3, name=Машинка, quantity=6, weight=76.0]
+Toy [id=0, name=Кукла, quantity=3, weight=43.0]
+Toy [id=2, name=Солдатик, quantity=5, weight=22.0]
+Toy [id=1, name=Зайчик, quantity=2, weight=12.0]
